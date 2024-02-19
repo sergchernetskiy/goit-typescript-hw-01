@@ -1,0 +1,23 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergchernetskiy/goit-typescript-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergchernetskiy/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/sergchernetskiy/goit-typescript-hw-01#readme",
+  "dependencies": {
+    "@web/dev-server": "^0.4.2"
+  },
+  "main": "index.js",
+  "description": ""
+}
